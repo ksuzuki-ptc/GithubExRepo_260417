@@ -1,2 +1,2 @@
 Ex NewFile 2
-Test
+Test - updated
